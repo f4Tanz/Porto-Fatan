@@ -1,0 +1,71 @@
+@font-face {
+    font-family:Poppins ;
+    src: url(Pilihan\ Font/Poppins-SemiBold.ttf);
+}
+
+a
+{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header1
+{
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px 0px;
+    background: rgb(54, 54, 54) ; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 
+{
+    display: flex;
+    text-align: center;
+    margin-left: 80px;
+    justify-content: center;
+    font-family: 'Poppins';
+    color: rgb(255, 255, 255);
+    margin-top: 6%;
+    font-size: 5vh;
+    text-shadow: 6px 6px 6px black;
+}
+
+body
+{
+    background-image: url(foto\ kelzzz\ pake\ z.jpg);
+}
+
+.Home 
+{
+    color: #fff;
+    font-family: 'poppins';
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 25px;
+    cursor: default;
+}
+
+.navbar a
+{
+    color:#fff;
+    font-size: 25px;
+    font-family: 'poppins';
+    margin-left: 95px;
+    font-weight: 600;
+    cursor: default;
+}
+
+h2
+{
+    font-family: "Poppins";
+    color: #fff;
+    margin: 0;
+    padding: 500px 630px;
+    display: flex;
+}
